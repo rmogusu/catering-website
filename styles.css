@@ -1,0 +1,9 @@
+.img{
+  margin-top: 20px;
+}
+.col-md-2 h2, p{
+  margin-top:20px;
+}
+.container{
+  background-image: url('images/bg.jpg');
+}
